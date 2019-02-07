@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.cyber.cyberwhaleeleaning"
+        id        = "com.moodle.moodlemobile"
         versionCode = "391"
         version   = "1.15">
-    <name>Cyberwhale Elearning</name>
+        <name>Cyberwhale Elearning</name>
 
-    <description>
-        Cyberwhale Elearning official app
-    </description>
+        <description>
+            Cyberwhale Elearning official app
+        </description>
 
-    <author href="http://cyberwhale.co.id" email="info@cyberwhale.co.id">
-        Juan Leyva
-    </author>
+        <author href="http://cyberwhale.co.id" email="info@cyberwhale.co.id">
+            Juan Leyva
+        </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
         <string>1.15</string>
