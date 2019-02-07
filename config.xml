@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.cyber.cyberwhaleeleaning"
         versionCode = "391"
         version   = "1.15">
-    <name>Moodle Mobile</name>
+    <name>Cyberwhale Elearning</name>
 
     <description>
-        Moodle Mobile official app
+        Cyberwhale Elearning official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
+    <author href="http://cyberwhale.co.id" email="info@cyberwhale.co.id">
         Juan Leyva
     </author>
 
